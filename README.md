@@ -1,16 +1,15 @@
-### // TODO: 
+<div align="center">
+  <a href="https://github.com/NBprojekt">
+    <img src="https://github-readme-stats.vercel.app/api?username=nbprojekt&count_private=true&bg_color=90,667eea,764ba2&title_color=fff&text_color=fff" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/NBprojekt">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbprojekt&bg_color=100,764ba2,667eea&title_color=fff&text_color=fff" />
+  </a>
+</div>
+
 
 <!--
-**NBprojekt/nbprojekt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My gradient: #667eea → #764ba2
 -->
