@@ -1,4 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 512 512" height="512" viewBox="0 0 512 512" width="512">
+    <style> 
+        #dotts {
+            fill: #e8edf2;
+            animation: blinking 2s infinite;
+        }
+        #digits path {
+            fill: #e8edf2;
+        }
+
+        /* Animations */
+        @keyframes blinking {
+            0% { opacity: 1; }
+            50% { opacity: .3; }
+            100% { opacity: 1; }
+        }
+    </style>
     <g>
         <g>
             <path d="m393.517 348.555-8.404 70.375v5.68c0 5.689 4.612 10.302 10.302 10.302h65.753c5.69 0 10.302-4.612 10.302-10.302v-5.68l-12.94-70.375z" fill="#8d9ca8"/>
@@ -19,7 +35,7 @@
                 <!-- {{digits}} -->
             </g>
             
-            <g id="dotts" fill="#e8edf2">
+            <g id="dotts">
                 <circle cx="256" cy="225.77" r="9.272"/>
                 <circle cx="256" cy="263.732" r="9.272"/>
             </g>
