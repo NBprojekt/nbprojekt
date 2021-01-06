@@ -4,6 +4,6 @@
     <br/>
     <hr/>
     <br/>
-    <img width="200px" src="https://github.com/NBprojekt/nbprojekt/blob/master/clock-live.svg" />
+    <img width="200px" src="https://github.com/NBprojekt/nbprojekt/blob/master/output/clock-live.svg" />
 </div>
             
