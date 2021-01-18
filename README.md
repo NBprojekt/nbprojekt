@@ -5,5 +5,7 @@
     <hr/>
     <br/>
     <img width="200px" src="https://github.com/NBprojekt/nbprojekt/blob/master/output/clock-live.svg" />
+    <iframe width="200px" src="https://github.com/NBprojekt/nbprojekt/blob/master/output/clock-live.svg"></iframe>
+    <object width="200px" data="https://github.com/NBprojekt/nbprojekt/blob/master/output/clock-live.svg" type="image/svg+xml">
 </div>
             
